@@ -1,0 +1,16 @@
+{
+  "name": "citrus-dark-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A citrusy dark syntax theme",
+  "keywords": [
+    "dark",
+    "citrus",
+    "syntax"
+  ],
+  "repository": "https://github.com/citrusui/citrus-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
